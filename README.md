@@ -3,6 +3,30 @@
 Opinionated data science project template.
 
 
+Usage
+------------
+
+Install `cookiecutter`, see [https://github.com/audreyr/cookiecutter](https://github.com/audreyr/cookiecutter)
+
+On Mac
+
+```sh
+brew install cookiecutter
+```
+
+Or with `pip`
+
+```sh
+pip install cookiecutter
+```
+
+Create a data science project
+
+```sh
+cookiecutter https://github.com/yaojiach/cookiecutter-data-science.git
+```
+
+
 Project Structure
 ------------
 
