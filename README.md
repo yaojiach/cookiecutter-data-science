@@ -32,6 +32,8 @@ Project Structure
 
 ```
     .
+    ├── .env               <- If you choose `dotenv` as config_type, it is included in .gitignore
+    ├── .gitignore
     ├── LICENSE
     ├── Pipfile            <- If you choose `pipenv` as venv_type
     ├── README.rst
